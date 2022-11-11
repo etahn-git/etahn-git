@@ -16,7 +16,7 @@
 </div>
   
 <details>
-  <summary>About me</summary>
+  <summary>🧍About me</summary>
 Hi, im Ethan.
 I like coding small and big projects for fun!
 <br>.
@@ -31,14 +31,14 @@ I like coding small and big projects for fun!
 - ⚡ Fun fact: There are more than 700 coding languages out there!
   </details>  
 <details>
-  <summary>Contact me</summary>
+  <summary>📧 Contact me</summary>
   <strong> - Discord: <code>etahn#8159</code> </strong><br>
   <strong> - Twitter: <code>_etahn</code> </strong><br>
   <strong> - Email: <code>contact@etahn.ml</code> </strong>
   </details>
 
 <details>
-  <summary> :hammer_and_wrench: Languages and Tools : </summary>
+  <summary> :hammer_and_wrench: Languages and Tools</summary>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
