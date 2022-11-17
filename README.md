@@ -14,9 +14,12 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
     
-  <a href="https://gist.github.com/etahn-git">
-  <p>Gists</p>
-  </a>
+  <h2>
+  <a href="https://gist.github.com/etahn-git">Gists</a> - 
+  <a href="https://gitlab.com/etahn-git">GitLab</a> - 
+  <a href="https://www.codegrepper.com/profile/etahngrepper">Grepper</a> - 
+  <a href="https://stackoverflow.com/users/20532244/etahn">Stackoverflow</a>
+  </h2>
   
 </div>
  
