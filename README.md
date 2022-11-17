@@ -13,7 +13,13 @@
   </a>
 </div>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
+    
+  <a href="https://gist.github.com/etahn-git">
+  <p>Gists</p>
+  </a>
+  
 </div>
+ 
   
 <details>
   <summary>🧍About me</summary>
