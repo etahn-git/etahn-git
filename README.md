@@ -5,7 +5,7 @@
   <a href="https://linktr.ee/etahn">
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://discord.gg/5nuYfS4yqS">
+  <a href="https://discord.gg/B3RxXSJXEZ">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://twitter.com/_etahn">
