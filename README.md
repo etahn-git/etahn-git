@@ -39,7 +39,6 @@ I like coding small and big projects for fun!
 <details>
   <summary>📧 Contact me</summary>
   <strong> - Discord: <code>etahn#8159</code> </strong><br>
-  <strong> - Twitter: <code>_etahn</code> </strong><br>
   <strong> - Email: <code>contact@etahn.ml</code> </strong>
   </details>
 
