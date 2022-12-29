@@ -8,9 +8,6 @@
   <a href="https://discord.gg/B3RxXSJXEZ">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/_etahn">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
     
