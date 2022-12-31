@@ -8,7 +8,9 @@
   <a href="https://discord.gg/B3RxXSJXEZ">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
+  <a href="https://www.buymeacoffee.com/etahndev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"   style="height: 29px !important;width: 150px !important;" >
+  </a>
+<br>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
     
   <h2>
