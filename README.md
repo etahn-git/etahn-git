@@ -27,15 +27,15 @@
   <summary>🧍About me</summary>
   <div align="left">
 Hi, im Ethan.
-I like coding small and big projects for fun!
+I like coding small and big projects for fun in my freetime.
 <br>
   
-- 🔭 I’m currently working on, quick small projects
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on, nothing at the moment
+- 🔭 I’m currently working on, alot.
+- 🌱 I’m currently learning/Improving on Java.
+- 👯 I’m looking to collaborate on, anything! (dm me on discord)
 - 🤔 I’m looking for help with, nothing
 - 💬 Ask me about, anything!
-- 📫 How to reach me: contact@etahn.ml
+- 📫 How to reach me: contact@etahn.ml / etahn#8159
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are more than 700 coding languages out there!
   </details>  
