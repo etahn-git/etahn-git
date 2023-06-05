@@ -26,16 +26,15 @@
 <details>
   <summary>🧍About me</summary>
   <div align="left">
-Hi, im Ethan.
-I like coding small and big projects for fun in my freetime.
+Hi, i am Ethan im thirteen years old,
+I enjoy coding backend parts of code but know enough todo some front end development.
 <br>
   
-- 🔭 I’m currently working on, alot.
+- 🔭 I’m currently working on, many projects in freetime.
 - 🌱 I’m currently learning/Improving on Java.
 - 👯 I’m looking to collaborate on, anything! (dm me on discord)
-- 🤔 I’m looking for help with, nothing
 - 💬 Ask me about, anything!
-- 📫 How to reach me: contact@etahn.ml / etahn#8159
+- 📫 How to reach me: [email: contact@etahn.ml / discord: etahn#8159 ]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are more than 700 coding languages out there!
   </details>  
