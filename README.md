@@ -1,6 +1,11 @@
 <div id="header" align="center">
+  
+![banner (8)](https://github.com/etahn-git/etahn-git/assets/117325175/6e7c5300-adab-4138-be01-3bde9b92e42b)
+
+
   <h1>etahn - 13 year old developer
     
+ <br>
   <div id="badges">
   <a href="https://linktr.ee/etahn">
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
@@ -12,16 +17,18 @@
   </a>
 <br>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
-    
-  <h6>
+    <img alt="etahn.ml" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fetahn.ml">
+    </h1>
+<p>
   <a href="https://gist.github.com/etahn-git">Gists</a> - 
   <a href="https://gitlab.com/etahn-git">GitLab</a> - 
   <a href="https://www.codegrepper.com/profile/etahngrepper">Grepper</a> - 
   <a href="https://stackoverflow.com/users/20532244/etahn">Stackoverflow</a>
-    </h6>
+    </p>
   
 </div>
  
+    
   ##
 <details>
   <summary>🧍About me</summary>
@@ -58,4 +65,6 @@ I enjoy coding backend parts of code but know enough todo some front end develop
     
   </div>
 </div>
+    
+
   
