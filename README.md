@@ -30,7 +30,7 @@
  
     
   ##
-<details>
+<details align="center">
   <summary>🧍About me</summary>
   <div align="left">
 Hi, i am Ethan im thirteen years old,
@@ -41,17 +41,15 @@ I enjoy coding backend parts of code but know enough todo some front end develop
 - 🌱 I’m currently learning/Improving on Java.
 - 👯 I’m looking to collaborate on, anything! (dm me on discord)
 - 💬 Ask me about, anything!
-- 📫 How to reach me: [email: contact@etahn.ml / discord: etahn#8159 ]
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: There are more than 700 coding languages out there!
   </details>  
-<details>
+<details align="center">
   <summary>📧 Contact me</summary>
   <strong> - Discord: <code>etahn#8159</code> </strong><br>
-  <strong> - Email: <code>contact@etahn.ml</code> </strong>
+  <strong> - Email: <code>mail.ethan.dev@gmail.com</code> </strong>
   </details>
 
-<details>
+<details align="center">
   <summary> :hammer_and_wrench: Languages and Stats</summary>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
