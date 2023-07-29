@@ -17,7 +17,6 @@
   </a>
 <br>
     <img src="https://komarev.com/ghpvc/?username=etahn-git&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/etahn-git?label=Followers&logo=follow&style=flat-square" alt=""/>
-    <img alt="etahn.ml" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fetahn.ml">
     <img alt="etahn.dev" src="https://img.shields.io/website?up_color=green&up_message=etahn.dev&down_message=site%20down&down_color=red&url=https%3A%2F%2Fetahn.dev%2F">
     </h1>
 <p>
