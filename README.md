@@ -3,7 +3,7 @@
 ![banner (8)](https://github.com/etahn-git/etahn-git/assets/117325175/6e7c5300-adab-4138-be01-3bde9b92e42b)
 
 
-  <h1>etahn - 13 year old developer
+  <h1>etahn - 14 year old developer
     
  <br>
   <div id="badges">
@@ -45,7 +45,7 @@ I enjoy coding backend parts of code but know enough todo some front end develop
   </details>  
 <details align="center">
   <summary>📧 Contact me</summary>
-  <strong> - Discord: <code>etahn#8159</code> </strong><br>
+  <strong> - Discord: <code>etahn_dev</code> </strong><br>
   <strong> - Email: <code>mail.ethan.dev@gmail.com</code> </strong>
   </details>
 
