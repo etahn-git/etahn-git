@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  
-![banner (8)](https://github.com/etahn-git/etahn-git/assets/117325175/6e7c5300-adab-4138-be01-3bde9b92e42b)
+
+![banner](https://github.com/etahn-git/etahn-git/assets/117325175/aff2a737-a6ba-4ef9-accb-7a502d82f363)
+
 
 
   <h1>etahn - 14 year old developer
