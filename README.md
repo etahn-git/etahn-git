@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/etahn-git/etahn-git/assets/117325175/aff2a737-a6ba-4ef9-accb-7a502d82f363)
 
-  <h1>etahn - 15 year old developer
+  <h1>ethan - 15 year old developer
     
  <br>
   <div id="badges">
